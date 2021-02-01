@@ -1,3 +1,5 @@
+![logo_rc1](C:\Users\dpolivka\Documents\GitHub\AstroJargon\docs\logo_rc1.png)
+
 ## Welcome to AstroJargon.net
 
 ### Bahtinov Mask Generator
