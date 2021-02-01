@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to AstroJargon.net
 
-You can use the [editor on GitHub](https://github.com/FarmerDave/AstroJargon/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Bahtinov Mask Generator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Looking for the online Bahtinov Mask Generator?  The original online mask generator is no more, but has been completely rewritten as a Windows app, called the AstroJargon Mask Generator.  The Windows version does Bahtinov masks, Tri-Bahtinov masks, Hartmann masks, Scheiner Disks, Carey masks, Couder masks, and more.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FarmerDave/AstroJargon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### EOSInfo
 
-### Support or Contact
+I no longer maintain this utility, as Canon made it far too difficult to obtain their SDK, so I decided it just wasn't worth the effort.  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
